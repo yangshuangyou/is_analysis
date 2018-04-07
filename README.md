@@ -8,5 +8,5 @@
 
 ## 实验
 
-### [实验1](./test1.md)
-### [实验2](./test2.md)
+### [实验1](http://blog.csdn.net/guodongxiaren)  
+### [实验2](http://blog.csdn.net/guodongxiaren)  
