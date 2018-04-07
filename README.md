@@ -10,3 +10,7 @@
 
 ### [实验1](https://github.com/yangshuangyou/is_analysis/tree/master/test1)  
 ### [实验2](https://github.com/yangshuangyou/is_analysis/tree/master/test2)  
+
+
+
+### [其他](https://github.com/shadowsocks/shadowsocks-windows/wiki/Shadowsocks-Windows-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E) 
