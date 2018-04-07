@@ -8,5 +8,5 @@
 
 ## 实验
 
-### [实验1](http://blog.csdn.net/guodongxiaren)  
-### [实验2](http://blog.csdn.net/guodongxiaren)  
+### [实验1](https://github.com/yangshuangyou/is_analysis/tree/master/test1)  
+### [实验2](https://github.com/yangshuangyou/is_analysis/tree/master/test2)  
