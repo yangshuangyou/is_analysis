@@ -13,6 +13,7 @@
 ### [实验3](https://github.com/yangshuangyou/is_analysis/tree/master/test3)
 ### [实验4](https://github.com/yangshuangyou/is_analysis/tree/master/test4)
 ### [实验5](https://github.com/yangshuangyou/is_analysis/tree/master/test5)
+### [实验6](https://github.com/yangshuangyou/is_analysis/tree/master/test6)
 
 
 
