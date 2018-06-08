@@ -1,5 +1,9 @@
 @startuml
 title 基于GitHub的实验管理平台--类图
+class universitys{
+    <b>universitys_id</b>（高校代码）
+     universitys_name（高校名称）
+    }
 class users {
     <b>user_id</b> （用户ID）
     name （用户真实姓名）
@@ -47,9 +51,11 @@ class semesters {
 
 }
 semesters "n"-- "1" teachers
+semesters"n"--"1"universitys
 students "1" -- "n"  grades
 tests "1" -- "n"  grades
 courses "1"-- "n"tests
 semesters "1"-- "n" courses
+
 
 @enduml
